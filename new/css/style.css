@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap');
+body{
+    background-color: #F4F4F4;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-btn{
+    margin-left: 42em;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.hero-img{
+    max-width: 50em;
+    float: right;
+    padding-right: 1em;
+    padding-top: 10em;
+}
+.heroheader1{
+    font-family: 'Raleway', sans-serif;
+    float: left;
+    margin-top: 6em;
+    padding-left: 1em;
+    font-size: 4em;
+}
